@@ -1,13 +1,13 @@
 # Hi, I'm Ekaterina Edmondson 👋
 
 **MSc Computer Science (Oxford Brookes, Distinction track)**  
-Senior commercial leader with a strong technical focus, specialising in data analysis, secure system design, and modern web engineering.
+Senior commercial leader with deep technical fluency across cloud, security, data platforms, and applied AI. I specialise in designing secure, data‑driven systems and leading complex transformation programmes.
 
 ---
 
 ## 🔧 Technical Profile
 
-I combine commercial leadership experience with hands‑on technical capability across data engineering, web development, and cybersecurity. My work emphasises clean architecture, disciplined execution, and solutions that are both technically robust and operationally sound.
+I combine 15+ years of enterprise experience with hands‑on capability in data engineering, cybersecurity, and modern web development. My work emphasises secure‑by‑design architecture, clean engineering practices, and operational discipline.
 
 ---
 
@@ -15,34 +15,35 @@ I combine commercial leadership experience with hands‑on technical capability 
 
 | Domain | Capabilities |
 |--------|--------------|
-| **Data Analysis & Engineering** | Python (Pandas, Matplotlib, Seaborn), data extraction from public sources, structured & semi‑structured data handling (MySQL, XML), database design and normalisation (3NF) |
-| **Web Engineering** | Full‑stack development with PHP/MySQL and Next.js/React, component‑based architecture, responsive UI, secure data handling, Agile collaboration |
-| **Cybersecurity** | Threat modelling and risk assessment using DREAD and STRIDE, understanding of system vulnerabilities and secure design principles |
-| **Research & Applied AI** | Academic research, critical analysis, evidence‑based evaluation, AI applications in infrastructure and governance |
-| **Leadership & Delivery** | Commercial strategy, enterprise negotiation, team development, operational discipline, cross‑functional project leadership in regulated SaaS environments |
+| **Secure Architecture & Cloud** | Azure SQL, API gateways, IDS/IPS, network segmentation, secure dataflows, SaaS architecture design |
+| **Cybersecurity** | STRIDE, DREAD, ISO 27005, GDPR/CCPA/HIPAA/SOC 2/ISO 27001 analysis, threat modelling, risk evaluation |
+| **Data Analysis & Engineering** | Python (Pandas, Matplotlib, Seaborn), data extraction, MySQL, XML, 3NF design, anomaly detection, applied ML/XAI |
+| **Web Engineering** | PHP/MySQL systems, Next.js/React, component‑based architecture, secure data handling, Agile delivery |
+| **Leadership & Delivery** | CXO engagement, enterprise negotiation, GTM strategy, cross‑BU delivery leadership, value‑driven storytelling |
 
 ---
 
 ## 🌱 Current Focus
 
-My MSc programme has strengthened my capability across several technical domains:
+My MSc programme has strengthened my capability across secure system design, data engineering, and applied AI:
 
-- **Data Analysis & Engineering:**  
-  Developed analytical workflows in Python and built data extraction pipelines converting public‑domain information into structured (MySQL) and semi‑structured (XML) formats, applying rigorous database design and normalisation.
+- **Secure‑by‑design architecture:**  
+  Designed SaaS architectures with network segmentation, Azure SQL, API management, firewalls, and IDS/IPS. Applied STRIDE, DREAD, and ISO 27005 methodologies to evaluate and mitigate system risks.
 
-- **Cybersecurity:**  
-  Applied DREAD and STRIDE methodologies to evaluate system vulnerabilities and model threats, reinforcing a security‑first approach to system design.
+- **Data Engineering & Analysis:**  
+  Built analytical workflows in Python and developed pipelines that transform public‑domain data into structured (MySQL) and semi‑structured (XML) formats, applying rigorous database design and normalisation.
 
 - **Web Engineering:**  
-  Delivered a secure PHP/MySQL grading system and contributed to a collaborative Next.js project using Agile methodology, focusing on component‑based architecture and responsive UI.
+  Delivered a secure PHP/MySQL grading system and contributed to a collaborative Next.js project using Agile methodology.
 
-- **Research:**  
-  Completed a study on *AI in Water Systems: Efficiency Gains, Lifecycle Costs, and Governance*, building a foundation for evidence‑based technical analysis.
+- **Applied Research:**  
+  Completed a study on *AI in Water Systems: Efficiency Gains, Lifecycle Costs, and Governance*, connecting environmental data with explainable AI methods.
 
 ### 🎓 Upcoming
-Beginning my MSc dissertation on **Offshore Freshened Groundwater (OFG)**, a critical emerging resource in global water security. The project focuses on extracting and analysing large volumes of offshore drilling reports to identify OFG occurrences, using workflows that combine OCR, LLM‑assisted processing, AI‑based pattern detection, and data engineering.
 
-The work involves designing efficient, accurate, and traceable pipelines that transform unstructured drilling documents into structured datasets aligned with FAIR principles. The project is supported by domain experts from the **RESCUE** initiative (University of Oxford and University of Derby), which focuses on advancing water resilience through data‑driven environmental research. My contribution centres on building explainable, reliable computational methods that can support scientific interpretation and policy‑relevant insight.
+I am beginning my MSc dissertation on **Offshore Freshened Groundwater (OFG)**, a critical emerging resource in global water security. The project focuses on extracting and analysing large volumes of offshore drilling reports to identify OFG occurrences, using workflows that combine OCR, LLM‑assisted processing, AI‑based pattern detection, and data engineering.
+
+The work involves designing efficient, accurate, and traceable pipelines that transform unstructured drilling documents into structured datasets aligned with FAIR principles. The project is supported by domain experts from the **RESCUE** initiative (University of Oxford and University of Derby), which advances water resilience through data‑driven environmental research.
 
 ---
 
@@ -57,10 +58,11 @@ The work involves designing efficient, accurate, and traceable pipelines that tr
 ## 💼 Professional Background
 
 Extensive experience in:
-- Commercial and sales leadership  
-- Enterprise negotiation  
-- Team development and mentoring  
-- Operational excellence in regulated SaaS environments  
+- Cloud, infrastructure, and security transformation  
+- Data‑intensive SaaS platforms and API‑driven integrations  
+- Enterprise negotiation and CXO engagement  
+- Global delivery leadership across EMEA, APAC, and the Americas  
+- Value‑based storytelling and ROI‑driven solution positioning  
 
 I bring a hybrid profile: strategic leadership supported by strong technical capability.
 
