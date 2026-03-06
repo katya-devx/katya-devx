@@ -40,7 +40,9 @@ My MSc programme has strengthened my capability across several technical domains
   Completed a study on *AI in Water Systems: Efficiency Gains, Lifecycle Costs, and Governance*, building a foundation for evidence‑based technical analysis.
 
 ### 🎓 Upcoming
-Beginning my MSc dissertation, centred on applied computing with a focus on scalable architectures, secure systems, and emerging technologies.
+Beginning my MSc dissertation on **Offshore Freshened Groundwater (OFG)**, a critical emerging resource in global water security. The project focuses on extracting and analysing large volumes of offshore drilling reports to identify OFG occurrences, using workflows that combine OCR, LLM‑assisted processing, AI‑based pattern detection, and data engineering.
+
+The work involves designing efficient, accurate, and traceable pipelines that transform unstructured drilling documents into structured datasets aligned with FAIR principles. The project is supported by domain experts from the **RESCUE** initiative (University of Oxford and University of Derby), which focuses on advancing water resilience through data‑driven environmental research. My contribution centres on building explainable, reliable computational methods that can support scientific interpretation and policy‑relevant insight.
 
 ---
 
