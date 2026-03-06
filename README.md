@@ -19,6 +19,7 @@ I combine 15+ years of enterprise experience with hands‑on capability in data 
 | **Cybersecurity** | STRIDE, DREAD, ISO 27005, GDPR/CCPA/HIPAA/SOC 2/ISO 27001 analysis, threat modelling, risk evaluation |
 | **Data Analysis & Engineering** | Python (Pandas, Matplotlib, Seaborn), data extraction, MySQL, XML, 3NF design, anomaly detection, applied ML/XAI |
 | **Web Engineering** | PHP/MySQL systems, Next.js/React, component‑based architecture, secure data handling, Agile delivery |
+| **Agile Delivery** | SCRUM Master experience, sprint planning, backlog refinement, cross‑functional coordination, iterative delivery |
 | **Leadership & Delivery** | CXO engagement, enterprise negotiation, GTM strategy, cross‑BU delivery leadership, value‑driven storytelling |
 
 ---
@@ -50,7 +51,7 @@ The work involves designing efficient, accurate, and traceable pipelines that tr
 ## 🎓 Selected Academic Work
 
 - **Brookes MSc Grading System** — secure PHP/MySQL application for academic data management  
-- **Jungle Journey** — collaborative Next.js project built with Agile practices  
+- **Jungle Journey** — Agile Next.js project; SCRUM Master with contributions to UI components  
 - Coursework across data analysis, software engineering, cybersecurity, and advanced programming
 
 ---
