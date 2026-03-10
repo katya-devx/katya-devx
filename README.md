@@ -1,7 +1,7 @@
 # Hi, I'm Ekaterina Edmondson 👋
 
 **MSc Computer Science (Oxford Brookes, Distinction track)**  
-Senior commercial leader with deep technical fluency across cloud, security, data platforms, and applied AI. I specialise in designing secure, data‑driven systems and leading complex transformation programmes.
+Senior commercial leader with technical fluency across cloud, security, data platforms, and applied AI. I specialise in designing secure, data‑driven systems and leading complex transformation programmes.
 
 ---
 
