@@ -59,6 +59,7 @@ The work involves designing efficient, accurate, and traceable pipelines that tr
 ## 💼 Professional Background
 
 Extensive experience in:
+- Team leadership
 - Cloud, infrastructure, and security transformation  
 - Data‑intensive SaaS platforms and API‑driven integrations  
 - Enterprise negotiation and CXO engagement  
