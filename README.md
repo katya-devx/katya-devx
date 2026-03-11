@@ -16,7 +16,7 @@ I combine 15+ years of enterprise experience with hands‑on capability in data 
 | Domain | Capabilities |
 |--------|--------------|
 | **Secure Architecture & Cloud** | Azure SQL, API gateways, IDS/IPS, network segmentation, secure dataflows, SaaS architecture design |
-| **Cybersecurity** | STRIDE, DREAD, ISO 27005, GDPR/CCPA/HIPAA/SOC 2/ISO 27001 analysis, threat modelling, risk evaluation |
+| **Cybersecurity** | STRIDE / DREAD / ISO 27005, GDPR, SOC2, ISO 27001 analysis, threat modelling, risk evaluation |
 | **Data Analysis & Engineering** | Python (Pandas, Matplotlib, Seaborn), data extraction, MySQL, XML, 3NF design, anomaly detection, applied ML/XAI |
 | **Web Engineering** | PHP/MySQL systems, Next.js/React, component‑based architecture, secure data handling, Agile delivery |
 | **Agile Delivery** | SCRUM Master experience, sprint planning, backlog refinement, cross‑functional coordination, iterative delivery |
